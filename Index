@@ -1,0 +1,242 @@
+	<!DOCTYPE HTML>
+	<html lang="ru">
+
+	<head>
+		<meta charset="utf-8">
+		<title>Studio</title>
+		<link rel="stylesheet" href="css/style.css">
+	</head>
+	<body>
+		<header class="header-main">
+			<div class="header-photo"></div>
+			<div class="container">
+				<a  href="#" class="header-logo">Golden</a>
+				<ul class="main-nav">
+					<li><a href="#">contact</a></li>
+					<li><a href="#">about</a></li>
+					<li><a href="#">portfolio</a></li>
+					<li><a href="#">services</a></li>
+					<li><a href="#">home</a></li>
+				</ul>
+				<p class ="promo-top">Welcome To Our Studio!</p>  
+				<h1 class="promo-middle">It’s nice to Meet you</h1>
+				<a class="btn btn-tell-more" href="#">Tell me more</a>
+
+			</div>				
+		</header>
+		
+		<section class="services">
+			<div class="container">
+				<h2 class="main-title">Services</h2>
+				<p class="information-commentary">Proin iaculis purus consequat sem cure.</p>
+
+				<div class="services-company">
+					<ul class="services-place">
+						<li class="services-block-info services-e-commers">
+							<h3 class="services-title">E-commerce</h3>
+							<p class="services-company-info">Proin iaculis purus consequat sem cure digni ssim. Donec porttitora entum suscipit aenean rhoncus posuere odio in tincidunt.</p>
+						</li>
+						<li class="services-block-info services-responsive-web">
+							<h3 class="services-title">Responsive Web</h3>
+							<p class="services-company-info">Proin iaculis purus consequat sem cure digni ssim. Donec porttitora entum suscipit aenean rhoncus posuere odio in tincidunt.</p>
+						</li> 
+						<li class="services-block-info services-web-security">
+							<h3 class="services-title">Web Security</h3>
+							<p class="services-company-info">Proin iaculis purus consequat sem cure digni ssim. Donec porttitora entum suscipit aenean rhoncus posuere odio in tincidunt.</p>
+						</li>
+					</ul> 
+				</div>   
+
+			</div>  
+		</section>
+		
+		<section class="our-portfolio">
+			<div class="container">
+				<h2 class="main-title">Our portfolio</h2>
+				<p class="information-commentary">Proin iaculis purus consequat sem cure.</p>
+
+				<div class="portfolio-gallery">
+					
+					<div class="portfolio-item">  
+						<div class="portfolio-image branding">
+							<h3 class="portfolio-title">Ebony & Ivory</h3>
+							<p class="portfolio-description">Branding</p>
+						</div>
+					</div>
+					
+					<div class="portfolio-item">  
+						<div class="portfolio-image print-design">
+							<h3 class="portfolio-title">Smart Stationary</h3>
+							<p class="portfolio-description">Print Design</p>
+						</div>
+					</div>
+					
+					<div class="portfolio-item">  
+						<div class="portfolio-image poster-design">
+							<h3 class="portfolio-title">Clever Poster</h3>
+							<p class="portfolio-description">Print Design</p>
+						</div>
+					</div>
+
+					<div class="portfolio-item">  
+						<div class="portfolio-image vinyl-record">
+							<h3 class="portfolio-title">Vinyl Record</h3>
+							<p class="portfolio-description">Product Mock-Up</p>
+						</div>
+					</div>
+
+					<div class="portfolio-item">  
+						<div class="portfolio-image web-design">
+							<h3 class="portfolio-title">Treehouse Template</h3>
+							<p class="portfolio-description">Web Design</p>
+						</div>
+					</div>
+					
+					<div class="portfolio-item">  
+						<div class="portfolio-image branding-logo">
+							<h3 class="portfolio-title">Burned Logo</h3>
+							<p class="portfolio-description">Branding</p>
+						</div>
+					</div> 
+				</div>  
+			</div>
+			
+		</section>
+		
+		<section class="about-us">
+			<div class="container">
+				<h2 class="main-title">about us</h2>
+				<p class="information-commentary">Proin iaculis purus consequat sem cure.</p>
+				
+				<table class="about-us-table"> 
+					<tr>
+						<td class="left-block">
+							<div class="time-publication">July 2010</div>
+							<h3 class="title-publication">Our Humble Beginnings</h3>
+							<p class="description-publication">Proin iaculis purus consequat sem cure digni ssim. Donec porttitora entum suscipit aenean rhoncus posuere odio in tincidunt. Proin iaculis purus consequat sem cure digni ssim. Donec porttitora entum suscipit.</p>
+						</td>
+						<td class="center first-image"></td>
+						<td class="right-block"></td>
+					</tr>
+					
+					<tr>
+						<td class="left-block">
+							<div class="time-publication"></div>
+							<h3 class="title-publication"></h3>
+							<p class="description-publication"></p>
+						</td>
+						<td class="center second-image"></td>
+						<td class="right-block">
+							<div class="time-publication">January 2011</div>
+							<h3 class="title-publication">Facing Startup Battles</h3>
+							<p class="description-publication">Proin iaculis purus consequat sem cure digni ssim. Donec porttitora entum suscipit aenean rhoncus posuere odio in tincidunt. Proin iaculis purus consequat sem cure digni ssim. Donec porttitora entum suscipit.</p>
+						</td>
+					</tr>
+					
+					<tr>
+						<td class="left-block">
+							<div class="time-publication">December 2012</div>
+							<h3 class="title-publication">Enter The Dark Days</h3>
+							<p class="description-publication">Proin iaculis purus consequat sem cure digni ssim. Donec porttitora entum suscipit aenean rhoncus posuere odio in tincidunt. Proin iaculis purus consequat sem cure digni ssim. Donec porttitora entum suscipit.</p>
+						</td>
+						<td class="center third-image"></td>
+						<td class="right-block"></td>
+					</tr>
+
+					<tr>
+						<td class="left-block">
+							<div class="time-publication"></div>
+							<h3 class="title-publication"></h3>
+							<p class="description-publication"></p>
+						</td>
+						<td class="center fourth-image"></td>
+						<td class="right-block">
+							<div class="time-publication">february 2014</div>
+							<h3 class="title-publication">Our Triumph</h3>
+							<p class="description-publication">Proin iaculis purus consequat sem cure digni ssim. Donec porttitora entum suscipit aenean rhoncus posuere odio in tincidunt. Proin iaculis purus consequat sem cure digni ssim. Donec porttitora entum suscipit.</p>
+						</td>
+					</tr>
+					
+					<tr>
+						<td class="left-block">
+							<div class="time-publication"></div>
+							<h3 class="title-publication"></h3>
+							<p class="description-publication"></p>
+						</td>
+						<td class="center no-image">
+							<p>Our<br> Story<br> Continues<br>...</p>
+						</td>
+						<td class="right-block"></td>
+					</tr>
+					
+				</table>
+			</div>
+		</section>
+		
+		<section class="amazing-team">
+			<div class="container">
+				<h2 class="main-title">our amazing team</h2>  
+				<p class="information-commentary">Proin iaculis purus consequat sem cure.</p>   
+				<div class="team-gallery"> 
+					
+					<div class="team-item">
+						<div class="team-photo"></div>
+						<h3 class="name-team-person">Kimberly Thompson</h3>
+						<p class="profession-team-person">Marketer</p>
+						
+						<div class="social-navigation">
+							<a class="social-btn social-btn-tw" href="#">Twitter</a>
+							<a class="social-btn social-btn-fb" href="#">Facebook</a>
+							<a class="social-btn social-btn-pin" href="#">Pinterest</a>
+						</div>  
+					</div>
+					
+					<div class="team-item">
+						<div class="team-photo"></div>
+						<h3 class="name-team-person">Rico Massimo</h3>
+						<p class="profession-team-person">Coder</p>
+						
+						<div class="social-navigation">
+							<a class="social-btn social-btn-tw" href="#">Twitter</a>
+							<a class="social-btn social-btn-fb" href="#">Facebook</a>
+							<a class="social-btn social-btn-goo" href="#">Google</a>
+						</div>  
+					</div>
+					
+					<div class="team-item">
+						<div class="team-photo"></div>
+						<h3 class="name-team-person">Uku Mason</h3>
+						<p class="profession-team-person">Graphic Designer</p>
+						
+						<div class="social-navigation">
+							<a class="social-btn social-btn-fb" href="#">Facebook</a>
+							<a class="social-btn social-btn-pin" href="#">Pinterest</a>
+						</div>  
+					</div>
+					
+					<p class="team-description">Proin iaculis purus consequat sem cure  digni ssim donec porttitora entum suscipit aenean rhoncus posuere odio in tincidunt proin iaculis.</p>
+				</div>
+
+			</div>  
+		</section>
+		
+		<footer class="contact">
+			<div class="container">
+				<h2 class="contact-info">contact us</h2>
+				<p class="information-commentary">Proin iaculis purus consequat sem cure.</p>
+				
+				<form class="form-group">
+					
+					<input type="text" name="name" placeholder="your Name *" required/>
+					<input type="text" name="mail" placeholder="your e-mail *" required/>
+					<input type="text" name="subject" placeholder="subject" required/>
+
+					<textarea name="message" id="message"></textarea>
+					<input type="submit" class="btn" value="Send Message">
+				</form>
+				
+			</div>
+		</footer>  
+	</body>
+
+	</html>
